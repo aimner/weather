@@ -1,0 +1,6 @@
+@import './styles/abstracts/mixins';
+
+.app {
+    @include flex(column, center, center, nowrap);
+    
+}
